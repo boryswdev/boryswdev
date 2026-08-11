@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm borys</h1>
 <h3 align="center">a passionate cybersecurity student - soon to be jr pen-tester / red teamer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boryswdev&label=Profile%20views&color=0e75b6&style=flat" alt="boryswdev" /> </p> <img alt="Static Badge" src="https://img.shields.io/badge/discord-whatwaffles-purple"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boryswdev&label=Profile%20views&color=0e75b6&style=flat" alt="boryswdev" /> <img alt="Static Badge" src="https://img.shields.io/badge/discord-whatwaffles-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/email-boryswdev%40gmail.com-blue"> </p>  
 
 - i'm currently working on [a linux 'task manager' that also provides security information](https://github.com/boryswdev/waffleboard)
 - how to reach me **boryswdev@gmail.com
