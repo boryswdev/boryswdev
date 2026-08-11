@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boryswdev&label=Profile%20views&color=0e75b6&style=flat" alt="boryswdev" /> <img alt="Static Badge" src="https://img.shields.io/badge/discord-whatwaffles-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/email-boryswdev%40gmail.com-blue"> </p>  
 
 - i'm currently working on [a linux 'task manager' that also provides security information](https://github.com/boryswdev/waffleboard)
-- how to reach me **boryswdev@gmail.com
-- currently trying to get certified by getting: PT1 TryHackMe && CompTIA Security+
+- currently trying to get certified by getting: PT1 TryHackMe && CompTIA Security+ and more!
 - if you have any feedback, suggestions or just want to talk, dm or email me anytime!
-- i love debian
+- i love linux
 
 <h3 align="left">languages and tools:</h3>
 
